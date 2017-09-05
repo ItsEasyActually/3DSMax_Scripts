@@ -1,3 +1,5 @@
+-- USE: Drag this script into 3DS Max and it should run. If not, open the .ms file in the MaxScript Editor and Evaluate it (Ctrl+E)
+
 fsource = GetOpenFileName \
 caption:"Sonic Mania MDL Importer" \
 types: "Binary Files (*.bin)|*.bin|"
